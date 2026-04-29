@@ -22,4 +22,5 @@ Clone the repository and install the required dependencies:
 git clone [https://github.com/buster_call_Root/PyTransform2D.git](https://github.com/buster_call_Root/PyTransform2D.git)
 cd PyTransform2D
 pip install numpy matplotlib
+python Transformtion.py
 ```
